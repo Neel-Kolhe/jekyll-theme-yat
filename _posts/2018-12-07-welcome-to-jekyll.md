@@ -27,7 +27,7 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 ## section 1
 
 Jekyll also offers powerful support for code snippets:
-
+![TEST](/assets/images/banners/home.jpeg "test")
 {% highlight ruby %}
 def print_hi(name)
 puts "Hi, #{name}"
