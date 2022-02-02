@@ -22,7 +22,6 @@ You can find my detailed [CV] here
 
 
 ![Image](/site/assets/images/profile.jpg "Image")
-<figcaption>people I know made me add a picture, this may not have been a voluntary action</figcaption>
 
 > **Here are links to my publications, thesis, project reports and some other science I may have done**
 
