@@ -1,13 +1,9 @@
 ---
-
 layout: post
 title: Master's Thesis: Pulsar Timing and Binary Black holes in Hyperbolic orbits
 categories: Research
 tags: Gravitational-Waves, Radio-Astronomy
 ---
-
-
-
 
 
 My master’s thesis was on  ‘Pulsar Timing Array signals from supermassive black hole binaries in hyperbolic orbits’. 
