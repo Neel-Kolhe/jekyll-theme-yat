@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Master's Thesis: Pulsar Timing and Binary Black holes in Hyperbolic orbits
+title: Master's Thesis Pulsar Timing and Binary Black holes in Hyperbolic orbits
 categories: Research
-tags: Gravitational-Waves, Radio-Astronomy
+tags: Gravitational-Waves
 published: true
 ---
 
