@@ -30,7 +30,7 @@
   text: हिन्दी  
 
 - lang: mr
-  img: https://cdn.countryflags.com/thumbs/india/flag-400.png
+  img: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Marathi_devanagari.png/640px-Marathi_devanagari.png
   text: मराठी
 
 - lang: ml
@@ -49,9 +49,9 @@
   img: https://en.wikipedia.org/wiki/File:Shukla_Kannada.svg
   text: ಕನ್ನಡ
 
-- lang: ru
-  img: https://cdn.countryflags.com/thumbs/india/flag-400.png
-  text: Russian
+- lang: te
+  img: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Telugu_image_new.png/640px-Telugu_image_new.png
+  text: తెలుగు
 
 - lang: ru
   img: https://cdn.countryflags.com/thumbs/india/flag-400.png
