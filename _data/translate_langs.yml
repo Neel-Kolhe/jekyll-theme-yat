@@ -24,3 +24,35 @@
 - lang: ru
   img: https://cdn.countryflags.com/thumbs/russia/flag-400.png
   text: Russian
+
+- lang: hi
+  img: https://cdn.countryflags.com/thumbs/india/flag-400.png
+  text: Hindi
+
+- lang: mr
+  img: https://cdn.countryflags.com/thumbs/india/flag-400.png
+  text: Marathi
+
+- lang: ml
+  img: https://cdn.countryflags.com/thumbs/india/flag-400.png
+  text: Malayalam
+
+- lang: bn
+  img: https://cdn.countryflags.com/thumbs/india/flag-400.png
+  text: Bengali
+
+- lang: gu
+  img: https://cdn.countryflags.com/thumbs/india/flag-400.png
+  text: Gujarati
+
+- lang: kn
+  img: https://cdn.countryflags.com/thumbs/india/flag-400.png
+  text: Kannada
+
+- lang: ru
+  img: https://cdn.countryflags.com/thumbs/india/flag-400.pngg
+  text: Russian
+
+- lang: ru
+  img: https://cdn.countryflags.com/thumbs/india/flag-400.png
+  text: Russian
