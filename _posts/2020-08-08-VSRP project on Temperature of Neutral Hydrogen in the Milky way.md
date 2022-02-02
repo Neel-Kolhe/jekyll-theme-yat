@@ -1,4 +1,9 @@
 ---
+
+layout: post
+title: VSRP project on Temperature of Neutral Hydrogen in the Milky way
+categories: Research
+tags: [Radio Astronomy] 
 published: true
 ---
 In summer 2020 as a part of the visiting student research program at the National Center for Radio Astrophysics,
