@@ -21,7 +21,6 @@ On the contrary to this, there has been consistent evidence provided by folks su
 
 
 
-
 Basing our methodology on their approach and some available data from WSRT, GMRT, etc along 7 quasar sightlines, we tried to estimate the spin temperature in absorption. 
 There is a relation between the spin temperature and the width of each component of absorption along the sightline, we attempted a gaussian fit to get these widths and eventually temperatures. 
 Our results seemed to agree with the conclusions of [Roy et.al 2013] that most of the gaussian components had a spin temperature between 5000K to 8000K. 
