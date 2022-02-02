@@ -26,7 +26,7 @@
   text: Russian
 
 - lang: hi
-  img: https://cdn.countryflags.com/thumbs/india/flag-400.png
+  img: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hindi_devnagari.png/640px-Hindi_devnagari.png
   text: हिन्दी  
 
 - lang: mr
@@ -34,25 +34,25 @@
   text: मराठी
 
 - lang: ml
-  img: https://cdn.countryflags.com/thumbs/india/flag-400.png
+  img: https://sites.manchester.ac.uk/mlm-datatool/wp-content/uploads/sites/10/2018/04/malayalam.png
   text: മലയാളം
 
 - lang: bn
-  img: https://cdn.countryflags.com/thumbs/india/flag-400.png
+  img: https://thefinancialexpress.com.bd/uploads/1550671822.jpg
   text: বাংলা
 
 - lang: gu
-  img: https://cdn.countryflags.com/thumbs/india/flag-400.png
+  img: https://upload.wikimedia.org/wikipedia/commons/2/2e/Gujarati.png
   text: ગુજરાતી
 
 - lang: kn
-  img: https://en.wikipedia.org/wiki/File:Shukla_Kannada.svg
+  img: https://upload.wikimedia.org/wikipedia/commons/7/7e/Kannada_in_Kedage_font.png
   text: ಕನ್ನಡ
 
 - lang: te
   img: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Telugu_image_new.png/640px-Telugu_image_new.png
   text: తెలుగు
 
-- lang: ru
-  img: https://cdn.countryflags.com/thumbs/india/flag-400.png
-  text: Russian
+- lang: or
+  img: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Odia_script.png/640px-Odia_script.png
+  text: Odia
