@@ -82,8 +82,8 @@ div#google_translate_element {
       font-size: initial;
       color: #fefefe;
       border: 1px solid #fefefe85;
-      border-radius: 3px;
-      padding: 3px 6px;
+      border-radius: 1px;
+      padding: 1px 1px;
     }
   }
 }
@@ -129,18 +129,18 @@ body {
   text-align: center;
   margin-top: 0;
   z-index: 200;
-  border-radius: 3px;
+  border-radius: 1px;
   visibility: hidden;
 
   li {
-    padding: 5px;
+    padding: 1px;
 
     &:first-child {
-      padding-top: 12px;
+      padding-top: 5px;
     }
 
     &:last-child {
-      padding-bottom: 12px;
+      padding-bottom: 5px;
     }
 
     &:not(:last-child) {
@@ -181,7 +181,7 @@ body {
     cursor: pointer;
 
     .ct-language-dropdown {
-      margin-top: 8px;
+      margin-top: 1px;
       max-height: 100000px;
       visibility: visible;
       box-shadow: 0 0 9px 3px rgba(0, 0, 0, .06);
