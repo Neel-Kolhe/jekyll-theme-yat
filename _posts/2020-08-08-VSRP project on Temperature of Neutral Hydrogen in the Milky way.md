@@ -4,7 +4,7 @@ title: VSRP project on Temperature of Neutral Hydrogen in the Milky way
 categories: Research
 tags: Radio-Astronomy 
 published: true
-banner: /assets/images/banners/neutral-hydrogen-sky.jpg
+banner: /assets/images/banners/gmrtarray_panorama11.jpg
 ---
 In summer 2020 as a part of the visiting student research program at the National Center for Radio Astrophysics,
 I studied the temperature of neutral hydrogen along quasar sightlines using the 21cm line with Professor Nissim Kanekar. 
