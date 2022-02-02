@@ -60,3 +60,12 @@
 - lang: or
   img: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Odia_script.png/640px-Odia_script.png
   text: Odia
+
+- lang: pa
+  img: https://onlinetyping.in/images/punjabi.jpg
+  text: Punjabi
+
+- lang: ur
+  img: https://images.indianexpress.com/2015/02/urdu-l.jpg
+  text: Urdu
+
