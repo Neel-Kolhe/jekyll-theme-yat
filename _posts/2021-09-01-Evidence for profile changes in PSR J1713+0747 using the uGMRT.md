@@ -1,5 +1,10 @@
-
-
+---
+layout: post
+categories: Research
+tags: Radio-Astronomy 
+published: true
+banner: /assets/images/banners/neutral-hydrogen-sky.jpg
+---
 In April of 2021 the pulsar PSR J1713-0747 underwent a profile change. Pulsar profiles are like the fingerprints of a pulsar and they can teach us a lot about the physical characteristics of the pulsar. 
 Profile changes are very rare in millisecond pulsars such as J1713 and only a handful have been reported so far. 
 Characterising these changes can be crucial for PTA experiments as a change in profile can accompany a change in timing, 
