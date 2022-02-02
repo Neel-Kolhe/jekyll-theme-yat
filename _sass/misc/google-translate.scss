@@ -121,11 +121,11 @@ body {
   max-height: 0;
   position: absolute;
   top: 110%;
-  right: -10px;
+  right: -1px;
   background-color: lighten($theme-color, 5%);
   -webkit-transition: all 0.25s ease-in-out;
   transition: all 0.25s ease-in-out;
-  width: 100px;
+  width: 70px;
   text-align: center;
   margin-top: 0;
   z-index: 200;
@@ -136,11 +136,11 @@ body {
     padding: 1px;
 
     &:first-child {
-      padding-top: 5px;
+      padding-top: 1px;
     }
 
     &:last-child {
-      padding-bottom: 5px;
+      padding-bottom: 1px;
     }
 
     &:not(:last-child) {
@@ -152,7 +152,7 @@ body {
       color: invert($theme-color);
 
       img {
-        width: 50px;
+        width: 60px;
         max-height: 50px;
         border: none;
       }
@@ -174,8 +174,8 @@ body {
   display: inline-block;
   position: relative;
   background-color: #fefefe2b;
-  padding: 3px 3px;
-  border-radius: 3px;
+  padding: 1px 1px;
+  border-radius: 1px;
 
   &:hover {
     cursor: pointer;
