@@ -30,6 +30,13 @@ You can find my detailed [CV] here
 
 - *[Evidence for profile changes in PSR J1713+0747](https://academic.oup.com/mnrasl/article/507/1/L57/6356572)*
 
+- *[The Indian Pulsar Timing Array: First data release (accepted for publication, preprint available)](https://arxiv.org/pdf/2206.09289.pdf)*
+
+- *[Low-frequency wideband timing of InPTA pulsars observed with the uGMRT](https://academic.oup.com/mnras/article/512/1/1234/6539345)*
+
+- *[Nanohertz Gravitational Wave Astronomy during the SKA Era: An
+InPTA perspective (accepted for publication, preprint available)](https://arxiv.org/pdf/2207.06461.pdf)*
+
 - *[Frustrated total internal reflection: A soothing Quantum Analog](https://drive.google.com/file/d/1msEeeIh-bMyTSeim3ZySljW-O7Z7ALhk/view?usp=sharing)*
 
 - *[Radiative Processes in Cosmological Hydrogen Recombination - A HYREC Simulation](https://drive.google.com/file/d/1_z6FOOitQQ01OkK6HO0YyN1SbYSh5xd4/view?usp=sharing)*
