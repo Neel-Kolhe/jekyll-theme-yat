@@ -4,14 +4,14 @@ title: About
 ---
 
 <h2>About</h2>
+I'm currently a PhD candidate at the Paris Observatory studying the dynamics of irregular galaxies, 
+particularly in the local group, to gain insights on the role of the IGM in cosmology.
+Currently I am using 21 cm observations from the MEERKAT radio telescope and the hydrodynamical code GIZMO for the same.
 
-I currently work on pulsar timing, gravitational waves and I sometimes dabble 
-in astrophysical hydrodynamics. I'm widely interested in using astrophysical systems
-to test physics on various scales. You can find details of my published and non-published (Multiple MSc projects) 
-work in the projects section of this website.  I'm a member of the Indian Pulsar Timing Array ([InPTA]), 
-a collaboration of Indian and Japanese Astronomers using the Giant Meterwave Radio Telescope near Pune, India,
-Using pulsars as a tool to detect low frequency gravitational waves from merging Supermassive Black Holes. 
-I regularly contribute to ongoing research projects, data analysis, observations and outreach with the InPTA.
+In the past I have worked with the Indian Pulsar Timing Array collaboration, something which is currently on ice due to commitments to other projects,
+but something I hope to go back to in my spare time when I have some more breathing room. 
+
+I also with several long time friends and collaborators work on developing novel instrumentation and experiments to teach
 
 You can find my detailed [CV] here
 
