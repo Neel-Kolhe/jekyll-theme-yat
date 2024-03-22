@@ -49,11 +49,12 @@ We also concluded that such an encounter will indeed be in the detection sensiti
  
  we expect to have results for the 3.5PN version sometime in early 2022, with burst sources with linear memory studied further. 
 
- 
+ 2024 Update: The work for the thesis was taken further  by my colleagues as a part of a larger project, [you can find the paper here.] and [on arxiv]
  [Click here] to read the full thesis!
 
 
 
 [Click here]:https://drive.google.com/file/d/1jkfx-3fpyrPwdlL1-jOnyTV78SCdoNB_/view
-
+[you can find the paper here.]:https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.024013
+[on arxiv]:https://arxiv.org/pdf/2305.19318.pdf
 
