@@ -40,7 +40,7 @@ higher variability (∼12 times the off-pulse RMS) is seen for post-EoT profiles
 The change is more pronounced in band 5 than in band 3 and is showing a 159 day exponential recovery, which suggests there might have been magnetospheric changes in the pulsar which realigned the beams
  (which are now making a recovery) and it is unlikely to be an ISM event. Our results were published in MNRS-letters, <a href="https://academic.oup.com/mnrasl/article/507/1/L57/6356572">which you can find here</a>
 
-![Image](/site/assets/images/timingresiduals.png "Image")
+![Image](/assets/images/timingresiduals.png "Image")
 <figcaption>The timing residuals for 4 sub-bands each in Bands 3 and 5 around
 the profile change event are shown in this figure as black and grey points.
 The dashed lines indicate a fit to an exponential dip model with chromatic
