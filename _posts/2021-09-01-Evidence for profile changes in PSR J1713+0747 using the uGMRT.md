@@ -11,7 +11,7 @@ Characterising these changes can be crucial for PTA experiments as a change in p
 which can introduce timing noise in the PTA dataset. J1713 is one of the best timed pulsar in the International Pulsar Timing Array data sets, 
 with a robust high signal to noise ratio time series in almost all of its prolonged observations. A profile change displayed by it therefore of particular interest. 
 
-![Image](/site/assets/images/profilechange.png "Image")
+![Image](/assets/images/profilechange.png "Image")
 <figcaption>Profile changes observed at Band 3 and Band 5 before and after MJD 59321 are shown in this figure. The colour-map plots show the variation in
 profile with observation epochs indicated in MJD along the vertical axes for Band 3 (left plot) and Band 5 (right plot), respectively, where the profile change
 epoch is indicated by arrows. The plots in the center show the frequency and time collapsed profiles before (I-A and I-B) and after (II-A and II-B) the event for
@@ -24,7 +24,7 @@ The Indian Pulsar Timing Array, along with other PTA organizations caught this p
  
  
  
- ![Image](/site/assets/images/profilechangecomparison.png "Image")
+ ![Image](/assets/images/profilechangecomparison.png "Image")
 <figcaption>A comparison of profiles before (left-hand column) and after (right-hand column) the profile change event with templates formed from epochs before
 the event. The first and third rows show the profile comparisons in Bands 3 and 5, respectively where we have plotted the scaled and aligned profiles from two
 representative epochs from before (MJD 59287) and after (MJD 59367) the event in arbitrary units. In the second and fourth rows, we plot respectively for
